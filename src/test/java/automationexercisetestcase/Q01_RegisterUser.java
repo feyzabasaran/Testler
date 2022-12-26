@@ -135,6 +135,10 @@ public class Q01_RegisterUser {
         cssSelector alma
         tagname[Attribute='Attribute Value']
         işaretleri kaldırdığımızda ccs selectör seçisiyle elementi buluyoruz.
+
+
+        $x("//img[@alt='Website for automation practice']")[0];
+        chrome'da incele kısmına bunu yazdigimizda dogru alip almadigimizi anlayabiliriz
          */
 
 
